@@ -1,5 +1,17 @@
 # TFL Cycle Hires
 
+## Data Files Downloaded
+
+From 1st Feb 2026 to 31st May 2026:
+
+- 437JourneyDataExtract01Feb2026-14Feb2026.csv
+- 438JourneyDataExtract15Feb2026-28Feb2026.csv
+- 439JourneyDataExtract01Mar2026-15Mar2026.csv
+- 440JourneyDataExtract15Mar2026-31Mar2026.csv
+- 441JourneyDataExtract01Apr2026-15Apr2026.csv
+- 442JourneyDataExtract16Apr2026-30Apr2026.csv
+- 443JourneyDataExtract01May2026-16May2026.csv
+- 444JourneyDataExtract17May2026-31May2026.csv
 
 ## Data Format
 
